@@ -30,14 +30,14 @@ This repository will showcase my projects in **Excel, SQL, and Power BI**, demon
 
 ---
 
-## 📁 Repository Structure (for reference)
+'''## 📁 Repository Structure (for reference)
 
 data-analyst-portfolio/
 ├── Excel/
 ├── SQL/
 ├── PowerBI/
 │ └── screenshots/
-└── README.md
+└── README.md'''
 
 ---
 
