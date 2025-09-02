@@ -37,7 +37,8 @@ data-analyst-portfolio/
 ├── SQL/
 ├── PowerBI/
 │ └── screenshots/
-└── README.md```
+└── README.md
+```
 
 ---
 
