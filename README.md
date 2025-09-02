@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+# 📊 Ufuk Demir's Portfolio
 
 Hello! I am Ufuk, an aspiring Data Analyst developing my skills in data analysis.  
 This repository will showcase my projects in **Excel, SQL, Power BI, and Tableau**, demonstrating real-world data analysis scenarios as I complete them.
