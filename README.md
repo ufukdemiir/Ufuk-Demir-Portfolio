@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio
 
 Hello! I am Ufuk, an aspiring Data Analyst developing my skills in data analysis.  
-This repository will showcase my projects in **Excel, SQL, and Power BI**, demonstrating real-world data analysis scenarios as I complete them.
+This repository will showcase my projects in **Excel, SQL, Power BI, and Tableau**, demonstrating real-world data analysis scenarios as I complete them.
 
 ---
 
@@ -28,20 +28,29 @@ This repository will showcase my projects in **Excel, SQL, and Power BI**, demon
 | [Project 2 Name] | [Brief description] | [Dataset] | [Skills used] | [Link/Screenshots] |
 | [Add more projects as needed] | | | | |
 
+### 4. Tableau Projects
+| Project Name | Description | Dataset | Key Skills | Screenshots / Link |
+|--------------|-------------|---------|------------|------------------|
+| [Project 1 Name] | [Brief description of visualization & insights] | [Dataset name] | [Skills used: Calculated Fields, Dashboards, Filters] | [Optional screenshot link] |
+| [Project 2 Name] | [Brief description] | [Dataset] | [Skills used] | [Link/Screenshots] |
+| [Add more projects as needed] | | | | |
+
 ---
 ## 📁 Repository Structure (for reference)
 
 ```
-data-analyst-portfolio/
-├── Excel/
-├── SQL/
-├── PowerBI/
-│ └── screenshots/
-└── README.md
+Ufuk-Demir-Portfolio/
+├── Excel/ # Excel projeleri
+├── SQL/ # SQL projeleri
+├── PowerBI/ # Power BI projeleri
+│ └── screenshots/ # Power BI dashboard görselleri
+├── Tableau/ # Tableau projeleri
+│ └── screenshots/ # Tableau dashboard görselleri
+└── README.md # ana tanıtım dosyası
 ```
 
 ---
 
 ## 🔗 Contact & LinkedIn
 For more details and updates on my projects, check out my LinkedIn profile:  
-[LinkedIn Profile] (https://www.linkedin.com/in/ufukdemiir)
+[LinkedIn Profile](https://www.linkedin.com/in/ufukdemiir)
