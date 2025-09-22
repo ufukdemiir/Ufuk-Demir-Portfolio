@@ -10,7 +10,7 @@ This repository showcases my projects in **Excel, SQL, Power BI, and Tableau**, 
 ### 1. Excel Projects
 | Project Name | Description | Dataset | Key Skills | Link / Notes |
 |--------------|-------------|---------|------------|--------------|
-| Temel Excel Çalışmaları | Öğrendiğim temel seviye Excel bilgilerini kullanarak, portfolyoma eklemek üzere hazırladığım dosya. Şu temel başlıklar altında çalışmalar içerir: "Otomatik Doldur & Özel Listeler", "Açıklama & Not", "Dört İşlem", "Hücre Sabitleme (KDV)", "Hücre Sabitleme (Çarpım Tablosu)", "Sıralama & Filtreleme", "Fonksiyonlar & Koşullu Biçimlendirme", "DÜŞEYARA - İNDİS - KAÇINCI", "Tarih Fonksiyonları", "Grafikler", "Pivot Tablo" | [Dataset name or source] | [Skills used: e.g., Pivot Tables, VLOOKUP, Charts] | [Optional link to file/screenshots] |
+| Temel Excel Çalışmaları | Öğrendiğim temel seviye Excel bilgilerini kullanarak, portfolyoma eklemek üzere hazırladığım dosya. |  Mockaroo aracılığıyla veya elle oluşturulmuş veriler.   | "Otomatik Doldur & Özel Listeler", "Açıklama & Not", "Dört İşlem", "Hücre Sabitleme (KDV)", "Hücre Sabitleme (Çarpım Tablosu)", "Sıralama & Filtreleme", "Fonksiyonlar & Koşullu Biçimlendirme", "DÜŞEYARA - İNDİS - KAÇINCI", "Tarih Fonksiyonları", "Grafikler", "Pivot Tablo" | [Excel dosyasını görüntüle](https://github.com/ufukdemiir/Ufuk-Demir-Portfolio/blob/Excel/Temel%20Excel%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1%20(Ufuk%20Demir).xlsx) |
 | [Project 2 Name] | [Brief description] | [Dataset name] | [Skills used] | [Link/Notes] |
 | [Add more projects as needed] | | | | |
 
